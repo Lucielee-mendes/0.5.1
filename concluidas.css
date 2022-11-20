@@ -1,0 +1,12 @@
+p:nth-child(even):not(:first-child) {
+  background-color:  #0CA789;
+  
+}
+p {
+  border: 2px solid  #0CA789; 
+  border-radius: 5px;
+  padding: 7px;
+  padding-left: 15px;
+  text-align: left;
+ 
+}
